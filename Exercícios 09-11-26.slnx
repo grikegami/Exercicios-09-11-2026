@@ -8,4 +8,5 @@
   <Project Path="Ex7/Ex7.csproj" Id="e3b031f3-853e-482f-81b7-f9f26ee00037" />
   <Project Path="Ex8/Ex8.csproj" Id="53bff819-064c-4592-a8e8-682231b2bb90" />
   <Project Path="Ex9/Ex9.csproj" Id="9d428595-783a-4a8b-a0ec-27f3ea46ee71" />
+  <Project Path="ExTeste/ExTeste.csproj" Id="d2ebffa4-987d-4d45-9231-8d3c12aa5272" />
 </Solution>
